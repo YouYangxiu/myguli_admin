@@ -1,4 +1,4 @@
-# vue-admin-template
+# 谷粒学院后台管理端
 
 English | [简体中文](./README-zh.md)
 
