@@ -25,7 +25,7 @@ English | [简体中文](./README-zh.md)
 git clone https://github.com/PanJiaChen/vue-admin-template.git
 
 # enter the project directory
-cd vue-admin-template
+cd myguli_admin
 
 # install dependency
 npm install
